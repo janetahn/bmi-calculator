@@ -1,6 +1,3 @@
-Of course! Here's the **README written in proper Markdown**:
-
-```markdown
 # BMI Calculator App
 
 This is a simple **BMI (Body Mass Index) Calculator** built using **SwiftUI** and the **MVVM** (Model-View-ViewModel) architectural pattern.
